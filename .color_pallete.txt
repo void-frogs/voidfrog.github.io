@@ -1,0 +1,5 @@
+Color 1 -> Orchid Pink - D4AFB9 
+Color 2 -> Lavender (web) - D1CFE2
+Color 3 -> Powder Blue - 9CADCE
+Color 4 -> Sky Blue - 7EC4CF
+Color 5 -> Moonsone - 52B2CF

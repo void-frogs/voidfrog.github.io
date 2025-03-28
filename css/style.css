@@ -1,0 +1,11 @@
+@import url("palette.css");
+
+
+html{
+  background: linear-gradient(
+    var(--Web_Lavender),
+    var(--Orchid_Pink)
+    );
+
+  background-attachment: fixed;
+}
